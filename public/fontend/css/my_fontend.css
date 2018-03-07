@@ -1,0 +1,28 @@
+* {font-family:'Noto Serif', serif;font-size:17px; color: #333;}
+.main-content  {background-color: white !important; padding: 25px !important;}
+.padding-left-0 { padding-left: 0px !important; }
+.padding-right-0 { padding-right: 0px !important; }
+#header {padding: 0px 0px !important; height: 110px !important;}
+#left-panel {background-color: white !important;}
+.menu-on-top aside#left-panel {border-top: 0px !important;}
+#logo img {width: 319px !important;}
+.menu-on-top #main{margin-top: 90px !important;}
+.article-item {padding-bottom: 25px; display: block;}
+
+/* CSS Blog */
+#header>div,#logo-group>span {height: 90px !important;}
+.menu-on-top.smart-style-2 #left-panel {padding-top: 115px !important; }
+.group-article {display: block;margin-bottom: 20px;}
+.blog .article-avatar {width: 150px;height: 150px; border: 1px solid #ccc; padding: 8px !important;}
+.border-none {box-shadow: none !important; border: 0px !important;}
+a.article-title {text-transform: capitalize; color: darkslategray; padding: 10px 26px;font-size: 22px !important;display: block;}
+
+/* CSS Navigation */
+.smart-style-2.menu-on-top aside#left-panel nav>ul>li>a{ font-weight: bold;font-size: 16px !important; text-align: center;padding: 15px 30px !important;}
+.smart-style-2.menu-on-top aside#left-panel nav>ul>li>ul>li>a{ font-size: 14px !important; float: left; text-align: left; width: 100% !important;padding: 10px 30px !important;}
+#navigation .main-menu li { border-right: 1px solid #B8B8B8 !important; }
+.menu-on-top aside#left-panel nav>ul>li>a {height: 50px !important;}
+
+/* CSS Content */
+.bg-color-transparent { background-color: transparent !important; }
+.article-item p {font-size: 14px !important;}
